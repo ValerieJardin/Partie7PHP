@@ -1,0 +1,19 @@
+body{
+  background-image:url("img/flowersAndinsects.jpg");
+}
+#form{               
+    background-color: lightgrey;
+    text-align: center;
+    width: 80%;
+    border-left: 20px solid red;
+    border-right: 20px solid red;
+    border-radius: 20px;
+}
+.buttons{
+    margin-top: 20%;
+}
+.button{
+    border-style: groove;
+    border-width: 5px 3px 5px 3px;
+    border-color: #A1D16A;
+}
